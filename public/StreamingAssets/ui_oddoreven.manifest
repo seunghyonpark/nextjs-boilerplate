@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2204295710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c68d2254836480ff2e4e7b6a31d92f7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 617d9a34a8bacd477aa75490d15ea19d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1ff8803db958804caae5f11807298e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a92e5c5fe9b3b64f95a3c6d6cd6108b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d948c9a7475bb8546bbf7c45f28e6160, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95f3e5e8316bda14ca26613c4fd1de2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5fe1b8b8c169c64dad38bc3b94f2427, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 577a9dfb356784841ace7a692080f4a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23a9d64e448327244acfd2c282e9ba7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 050d877e18b895f42bed82f1e97cfe5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03ebc8ce9b2220f4398d3c9e6c2e168f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69b80e1fd5b3013439b3bc58adc1de8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Lobby/OddOrEven/OddOrEven.prefab
+Dependencies: []

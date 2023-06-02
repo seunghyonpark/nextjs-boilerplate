@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3459366225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e40d74cfbc80d6df740f4ac11576e6a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44912aa95bf28c03affddc6817be15fe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Fonts/Spa/Dharma Type - Bebas Neue Pro Bold.otf
+- Assets/UI/Fonts/Spa/Dharma Type - Bebas Neue Pro Regular.otf
+Dependencies:
+- D:/INK/Trunk/Internal_WebGL/Assets/AssetBundles/webGl/ui_font

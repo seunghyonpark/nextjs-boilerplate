@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 576274432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e18b96919c15fbc7a984ee61653bd215
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26c79764589908894ac75378088bcb5f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83f21b3283ee16349af2d8551ad2875b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d77d425668568f4489cb67438a81aba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a92e5c5fe9b3b64f95a3c6d6cd6108b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d948c9a7475bb8546bbf7c45f28e6160, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3debc4a8a9eb0534792c9246d63e5998, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90a018ca19154c240bcf51f67fd43377, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5fe1b8b8c169c64dad38bc3b94f2427, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d4a94bb2ac31e243962c6cd933ab1b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 721098dc8cae81d499a4aebeb4e6a51d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23a9d64e448327244acfd2c282e9ba7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 050d877e18b895f42bed82f1e97cfe5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55b71ace246953347a3ab0fb63eb05c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Lobby/PostBox/PostBoxV2.prefab
+Dependencies: []

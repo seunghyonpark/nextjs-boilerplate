@@ -1,0 +1,220 @@
+{
+  "version": 10,
+  "assetBundleInfoDic": {
+    "announce": {
+      "name": "announce",
+      "version": "077a59b1919a5da22f887e995153f797",
+      "size": 8337102
+    },
+    "announce_spa": {
+      "name": "announce_spa",
+      "version": "4a8b7bf3735b2f33eca3ed16473a9eb0",
+      "size": 7089322
+    },
+    "assetdata": {
+      "name": "assetdata",
+      "version": "cd86d4efca9a200c378a2746500fc619",
+      "size": 5963
+    },
+    "bundles": {
+      "name": "bundles",
+      "version": "f3eb2aa5be75e214e3302137627cdc56",
+      "size": 82056
+    },
+    "camera_race": {
+      "name": "camera_race",
+      "version": "c2e6c47a7a762ac07f49a94e92ec4b8a",
+      "size": 140825
+    },
+    "eula": {
+      "name": "eula",
+      "version": "725e08f062f0a72febb7a09f733ad54b",
+      "size": 25564
+    },
+    "gwacheon_scene": {
+      "name": "gwacheon_scene",
+      "version": "c5ff03f4b925038239a718a7e85f933a",
+      "size": 16006345
+    },
+    "happyvalley_scene": {
+      "name": "happyvalley_scene",
+      "version": "de3b48aa49c2fbc90a6820dbe428920e",
+      "size": 20512488
+    },
+    "horsemodel": {
+      "name": "horsemodel",
+      "version": "fa631f0bb7024ed2cf41a8efa4522124",
+      "size": 18841198
+    },
+    "horsepreviewtyped": {
+      "name": "horsepreviewtyped",
+      "version": "5e1bb35a202e9591bbb6c056e49c0f98",
+      "size": 1302280
+    },
+    "jockey": {
+      "name": "jockey",
+      "version": "568af7de297bf57d6b800267b1da2ec1",
+      "size": 388882
+    },
+    "raceeffects": {
+      "name": "raceeffects",
+      "version": "8d39a4ee22290b14df3c5a0b630d90ea",
+      "size": 104962
+    },
+    "shatin_scene": {
+      "name": "shatin_scene",
+      "version": "31668ea39f0581f7bc38f292788956a9",
+      "size": 35270380
+    },
+    "singapore_scene": {
+      "name": "singapore_scene",
+      "version": "93bbb93adff9e8a4bed0eecc1622ca80",
+      "size": 11911692
+    },
+    "sound_sfx": {
+      "name": "sound_sfx",
+      "version": "3d035fcfcaf9cd5e304049f4d295b43f",
+      "size": 264760
+    },
+    "tables": {
+      "name": "tables",
+      "version": "e5d55ad71c87c91d052e8a20eb14f482",
+      "size": 39220
+    },
+    "ui_assistant": {
+      "name": "ui_assistant",
+      "version": "a26884991284ea25ee3743f6198f7268",
+      "size": 39019
+    },
+    "ui_autoclosepopup": {
+      "name": "ui_autoclosepopup",
+      "version": "3c08aa09884c241c27784600b9cedb79",
+      "size": 5282
+    },
+    "ui_bettingtipinfo_typed": {
+      "name": "ui_bettingtipinfo_typed",
+      "version": "4d4db8c345b5da0658146d7b15b9c2f8",
+      "size": 102360
+    },
+    "ui_betting_board": {
+      "name": "ui_betting_board",
+      "version": "14d71ae2bf052ba5236aed0061150543",
+      "size": 849174
+    },
+    "ui_betting_listv2": {
+      "name": "ui_betting_listv2",
+      "version": "26710b8befe5e35e01921b5951d5981e",
+      "size": 117794
+    },
+    "ui_betting_menus": {
+      "name": "ui_betting_menus",
+      "version": "37061d23cac2e7187b3a3d2aac295a7f",
+      "size": 160627
+    },
+    "ui_betting_tipinfo": {
+      "name": "ui_betting_tipinfo",
+      "version": "0a4f067904fbea8deef6fe8ea04c5d65",
+      "size": 146905
+    },
+    "ui_betting_typed": {
+      "name": "ui_betting_typed",
+      "version": "7d406dcedbd8357d99022841b8971a6d",
+      "size": 31590
+    },
+    "ui_font": {
+      "name": "ui_font",
+      "version": "f32f73145eef4f1360a723a3850a33b3",
+      "size": 721339
+    },
+    "ui_font_spa": {
+      "name": "ui_font_spa",
+      "version": "e40d74cfbc80d6df740f4ac11576e6a4",
+      "size": 156562
+    },
+    "ui_inrace": {
+      "name": "ui_inrace",
+      "version": "3741bf4237607009f45a897e19abfccf",
+      "size": 85143
+    },
+    "ui_loading": {
+      "name": "ui_loading",
+      "version": "d76e58f76da82c34256aa4f94432b8f8",
+      "size": 3732934
+    },
+    "ui_main": {
+      "name": "ui_main",
+      "version": "a6933ec85155bbacb7c75fcaba5f7a0c",
+      "size": 9747832
+    },
+    "ui_newreplaytxt": {
+      "name": "ui_newreplaytxt",
+      "version": "c19f1fc3d0d45c605916cd36b14c14e5",
+      "size": 4160
+    },
+    "ui_oddoreven": {
+      "name": "ui_oddoreven",
+      "version": "c68d2254836480ff2e4e7b6a31d92f7f",
+      "size": 77010
+    },
+    "ui_postbox": {
+      "name": "ui_postbox",
+      "version": "e18b96919c15fbc7a984ee61653bd215",
+      "size": 572272
+    },
+    "ui_prebestwinning": {
+      "name": "ui_prebestwinning",
+      "version": "0a8fea6914afc1a32804725125c75f35",
+      "size": 65976
+    },
+    "ui_raceinfo": {
+      "name": "ui_raceinfo",
+      "version": "1bbe5732cb815a0e247af41ead8e76ab",
+      "size": 102429
+    },
+    "ui_racemain": {
+      "name": "ui_racemain",
+      "version": "903c6ab36230a65ce08d867f49cee9f9",
+      "size": 108320
+    },
+    "ui_raceminimap": {
+      "name": "ui_raceminimap",
+      "version": "e3dbbd1b5f3727fb8cd890361235e293",
+      "size": 295628
+    },
+    "ui_racerankinfo": {
+      "name": "ui_racerankinfo",
+      "version": "d93f485176643f3907c63000f45eeb66",
+      "size": 242386
+    },
+    "ui_racerelay": {
+      "name": "ui_racerelay",
+      "version": "a2b12b2d23f931299bb4a2f5151287b1",
+      "size": 71061
+    },
+    "ui_racereplaywindow": {
+      "name": "ui_racereplaywindow",
+      "version": "ac8727913354be2c914c890d09b47675",
+      "size": 53959
+    },
+    "ui_raceresult": {
+      "name": "ui_raceresult",
+      "version": "82b8a0d1d5f2d50dd7e392540202cb41",
+      "size": 824257
+    },
+    "ui_stadium": {
+      "name": "ui_stadium",
+      "version": "e4c3356806c4e0bce0a36df041e0d546",
+      "size": 5735459
+    },
+    "weatherparticle": {
+      "name": "weatherparticle",
+      "version": "8f48a78231e1ffa6f22e833b845e2402",
+      "size": 1629105
+    },
+    "webGl": {
+      "name": "webGl",
+      "version": "00000000000000000000000000000000",
+      "size": 2975
+    }
+  }
+}
