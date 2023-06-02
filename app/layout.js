@@ -11,6 +11,28 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+
+  <head>
+
+  <script
+          dangerouslySetInnerHTML={{
+            __html: `
+
+            <link rel="shortcut icon" href="TemplateData/Icon.ico">    
+            <link rel="stylesheet" href="TemplateData/style.css">
+            <script src="TemplateData/UnityProgress.js"></script>
+            <script src="Build/UnityLoader.js"></script>
+            <script>
+              var unityInstance = UnityLoader.instantiate("unityContainer", "Build/230210.json", {onProgress: UnityProgress});
+            </script>
+
+				`,
+			}}
+        />
+
+
+  </head>
+
       <body className={inter.className}>{children}</body>
     </html>
   )
